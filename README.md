@@ -1,7 +1,7 @@
 # hackyll
 
 <p align="center">
-A super crap Jekyll boilerplate theme with [hack.css](https://github.com/egoist/hack).<br><br>
+A super crap Jekyll boilerplate theme with <a href="https://github.com/egoist/hack">hack.css</a>.<br><br>
 <img src="https://raw.githubusercontent.com/lukasschwab/lukasschwab.github.io/8815b90c5443488fdb33b70d4c4667b50b3255c9/img/blog.gif">
 </p>
 
