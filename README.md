@@ -16,3 +16,5 @@ A super crap Jekyll boilerplate theme with <a href="https://github.com/egoist/ha
     + `+` for unordered lists
 
     + `===` under title?
+
++ Add mention that I built the theme to the about page
