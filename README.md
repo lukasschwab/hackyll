@@ -1,6 +1,9 @@
 # hackyll
 
-A super crap Jekyll boilerplate theme with [hack.css](https://github.com/egoist/hack).
+<p align="center">
+A super crap Jekyll boilerplate theme with [hack.css](https://github.com/egoist/hack).<br><br>
+<img src="https://raw.githubusercontent.com/lukasschwab/lukasschwab.github.io/8815b90c5443488fdb33b70d4c4667b50b3255c9/img/blog.gif">
+</p>
 
 ## To do
 
@@ -13,3 +16,5 @@ A super crap Jekyll boilerplate theme with [hack.css](https://github.com/egoist/
     + `+` for unordered lists
 
     + `===` under title?
+
++ Fix temp gif src above
