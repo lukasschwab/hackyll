@@ -1,0 +1,19 @@
+/**
+ * custom.scss
+
+ * This file modifies hack.css to make it more Jekyll-friendly, or to
+ * make it look more like Markdown (e.g. with horizontal rules)
+ */
+
+// Horizontal rules with text
+hr:before {
+    content: "***";
+}
+
+hr {
+    clear: both;
+    margin-bottom: 1.75rem;
+    color: $grey-color;
+    background-color: $grey-color-light;
+    border: none;
+}
