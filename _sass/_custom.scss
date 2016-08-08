@@ -17,3 +17,9 @@ hr {
     background-color: $grey-color-light;
     border: none;
 }
+
+// Style hamburger button better
+.site-nav .menu-icon {
+    border-bottom: none;
+    height: 36px;
+}
