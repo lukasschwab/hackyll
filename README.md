@@ -2,7 +2,7 @@
 
 <p align="center">
 A super crap Jekyll boilerplate theme with <a href="https://github.com/egoist/hack">hack.css</a>.<br><br>
-<img src="https://raw.githubusercontent.com/lukasschwab/lukasschwab.github.io/8815b90c5443488fdb33b70d4c4667b50b3255c9/img/blog.gif">
+<img src="http://lukasschwab.github.io/img/blog.gif">
 </p>
 
 ## To do
@@ -16,5 +16,3 @@ A super crap Jekyll boilerplate theme with <a href="https://github.com/egoist/ha
     + `+` for unordered lists
 
     + `===` under title?
-
-+ Fix temp gif src above
