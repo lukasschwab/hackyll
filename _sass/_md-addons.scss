@@ -1,0 +1,63 @@
+/**
+ * code by https://github.com/mrcoles/markdown-css
+ * with some modifications
+ */
+
+h1:before,
+h2:before,
+h3:before,
+h4:before,
+h5:before,
+h6:before {
+  display: inline;
+}
+h1:before {
+  content: "# ";
+}
+h2:before {
+  content: "## ";
+}
+h3:before {
+  content: "### ";
+}
+h4:before {
+  content: "#### ";
+}
+h5:before {
+  content: "##### ";
+}
+h6:before {
+  content: "###### ";
+}
+li {
+  position: relative;
+  display: block;
+  padding-left: 2ch;
+}
+li:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+ul > li:after {
+  content: "+";
+}
+blockquote {
+  position: relative;
+  padding-left: 2.5ch;
+  overflow: hidden;
+}
+blockquote:after {
+  content: " > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > \A > ";
+  white-space: pre;
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+}
+
+em:before,
+em:after {
+  content: "*";
+  display: inline;
+}

@@ -5,16 +5,11 @@ A super crap Jekyll boilerplate theme with <a href="https://github.com/egoist/ha
 <img src="http://lukasschwab.github.io/img/blog.gif">
 </p>
 
+## Usage
+
+Clone and `jekyll serve`.
+
+To add the markdown glyphs (hashes for headings, plusses for lists, ">" for blockquotes...) uncomment the "md-addons" import from css/main.scss.
+
 ## To do
 
-+ Add README gif: https://media.giphy.com/media/UVqPbnRA3vjOw/giphy.gif
-
-+ Add markdown-style text add-ons: [how hack.css does it](https://github.com/egoist/hack/blob/master/src/css/markdown.css)
-
-    + `##` before headings
-
-    + `+` for unordered lists
-
-    + `===` under title?
-
-+ Add mention that I built the theme to the about page
