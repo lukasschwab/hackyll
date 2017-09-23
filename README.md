@@ -5,6 +5,8 @@ A super crap Jekyll boilerplate theme with <a href="https://github.com/egoist/ha
 <img src="http://lukasschwab.github.io/img/blog.gif">
 </p>
 
+Note, you're probably looking for [this](https://github.com/wemake-services/jekyll-theme-hackcss) instead; looks much better.
+
 ## Usage
 
 Clone and `jekyll serve`.
